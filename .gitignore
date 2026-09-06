@@ -1,0 +1,10 @@
+Backup/
+*.toe.dir/
+*.toe.toc
+*.tox.dir/
+*.tox.toc
+
+#OS
+Thumbs.db
+desktop.ini
+.DS_Store
