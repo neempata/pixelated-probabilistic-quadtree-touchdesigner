@@ -54,10 +54,7 @@ flowchart LR
     A[Webcam] --> B[MediaPipe<br/>hand tracking]
     B --> C[over1<br/>video + skeleton]
     C --> D[null1]
-    D --> E[rectangle1 → corner1<br/>panel pinned to fingertips]
-    D --> F[QuadtreeFilter]
-    F --> G[mask1<br/>keeps only the panel]
-    E --> G
+  
     E --> H[edge1<br/>panel outline]
 ```
 
