@@ -59,10 +59,6 @@ flowchart LR
     F --> G[mask1<br/>keeps only the panel]
     E --> G
     E --> H[edge1<br/>panel outline]
-    G --> I[comp2]
-    D --> I
-    H --> I
-    I --> J[Output]
 ```
 
 The camera feed goes two ways. One branch draws the panel: a white rectangle is
