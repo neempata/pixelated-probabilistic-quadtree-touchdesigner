@@ -51,10 +51,7 @@ files below are node graphs rather than source code.
 
 ```mermaid
 flowchart LR
-    A[Webcam] --> B[MediaPipe<br/>hand tracking]
-    B --> C[over1<br/>video + skeleton]
-    C --> D[null1]
-  
+
     E --> H[edge1<br/>panel outline]
 ```
 
