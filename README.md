@@ -49,12 +49,6 @@ files below are node graphs rather than source code.
 
 ## How it works
 
-```mermaid
-flowchart LR
-
-    E --> H[edge1<br/>panel outline]
-```
-
 The camera feed goes two ways. One branch draws the panel: a white rectangle is
 corner-pinned to the four tracked fingertips, giving a solid shape that marks
 where the effect belongs. The other branch runs the whole frame through the
