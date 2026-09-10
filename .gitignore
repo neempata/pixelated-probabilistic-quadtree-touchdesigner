@@ -4,6 +4,9 @@ Backup/
 *.tox.dir/
 *.tox.toc
 
+#python
+.pytest
+
 #OS
 Thumbs.db
 desktop.ini
