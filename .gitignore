@@ -5,7 +5,7 @@ Backup/
 *.tox.toc
 
 #python
-.pytest
+.$pytest
 
 #OS
 Thumbs.db
