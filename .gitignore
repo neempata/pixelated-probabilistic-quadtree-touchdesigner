@@ -6,7 +6,6 @@ Backup/
 
 #python
 .$pytest
-
 #OS
 Thumbs.db
 desktop.ini
