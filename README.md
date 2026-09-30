@@ -7,7 +7,6 @@ is not. A shifting random selection of those blocks is pixelated while the rest
 stay as untouched live video, so the surface constantly reshuffles between raw
 and abstract.
 
----
 
 ## What you are looking at
 
